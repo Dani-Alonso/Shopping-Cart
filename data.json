@@ -1,0 +1,32 @@
+
+var data= 
+    {
+
+  "product":[{
+    "name": "Dani",
+    "description": "33",
+    "price": "human",
+    "photo": "green",
+    
+    },
+            {
+
+    "name": "Dani",
+    "description": "33",
+    "price": "human",
+    "photo": "green",
+    
+    },
+            {
+    "name": "Dani",
+    "description": "33",
+    "price": "human",
+    "photo": "green",
+    },
+            {
+    "name": "Dani",
+    "description": "33",
+    "price": "human",
+    "photo": "green",
+    },
+ ]}
